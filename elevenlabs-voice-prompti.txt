@@ -1,0 +1,15 @@
+- elevenlabs
+
+A calm, somewhat monotone male voice of a comforting friendly genius in his middle years. Warm, smooth tone with a resonant, pleasant quality that's both relaxing and unobtrusive. Speaking at a slow, measured pace with consistent pace and near lack of energy. Perfect audio quality.
+
+50% Loudness
+87% Guidance
+
+exported as audio	single file	wav
+
+
+
+- audacity
+
+fx reduced to match level of voice;
+normalized to -0.1dB
